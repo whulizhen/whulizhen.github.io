@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Dr Zhen Li</title>
+    <link>https://whulizhen.github.io/publication_types/7/</link>
+      <atom:link href="https://whulizhen.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whulizhen.github.io/img/icon-192.png</url>
+      <title>7</title>
+      <link>https://whulizhen.github.io/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Space vehicle radiation pressure modelling: A demonstration on Galileo satellites in GNSS</title>
+      <link>https://whulizhen.github.io/publication/article-7/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/publication/article-7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

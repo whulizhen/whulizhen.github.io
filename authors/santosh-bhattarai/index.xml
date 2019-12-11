@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santosh Bhattarai | Dr Zhen Li</title>
+    <link>https://whulizhen.github.io/authors/santosh-bhattarai/</link>
+      <atom:link href="https://whulizhen.github.io/authors/santosh-bhattarai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Santosh Bhattarai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whulizhen.github.io/img/icon-192.png</url>
+      <title>Santosh Bhattarai</title>
+      <link>https://whulizhen.github.io/authors/santosh-bhattarai/</link>
+    </image>
+    
+    <item>
+      <title>Demonstrating developments in high-fidelity analytical radiation force modelling methods for spacecraft with a new model for GPS IIR/IIR-M</title>
+      <link>https://whulizhen.github.io/publication/article-6/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/publication/article-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A shadow function model based on perspective projection and atmospheric effect for satellites in eclipse</title>
+      <link>https://whulizhen.github.io/publication/article-2/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/publication/article-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast solar radiation pressure modelling with multiple reflections</title>
+      <link>https://whulizhen.github.io/publication/article-1/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/publication/article-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earth Radiation Pressure Modeling for BDS IGSO satellite</title>
+      <link>https://whulizhen.github.io/publication/article-3/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/publication/article-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

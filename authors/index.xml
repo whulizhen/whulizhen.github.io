@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Dr. Li</title>
+    <title>Authors | Dr Zhen Li</title>
     <link>https://whulizhen.github.io/authors/</link>
       <atom:link href="https://whulizhen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://whulizhen.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,11 +13,83 @@
     </image>
     
     <item>
+      <title>**Zhen Li**</title>
+      <link>https://whulizhen.github.io/authors/zhen-li/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/zhen-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marek Ziebart</title>
+      <link>https://whulizhen.github.io/authors/marek-ziebart/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/marek-ziebart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Harrison</title>
+      <link>https://whulizhen.github.io/authors/david-harrison/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/david-harrison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Allgeier</title>
+      <link>https://whulizhen.github.io/authors/s.-allgeier/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/s.-allgeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santosh Bhattarai</title>
+      <link>https://whulizhen.github.io/authors/santosh-bhattarai/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/santosh-bhattarai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stuart Grey</title>
+      <link>https://whulizhen.github.io/authors/stuart-grey/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/stuart-grey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Springer</title>
+      <link>https://whulizhen.github.io/authors/tim-springer/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/tim-springer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingsong Huang</title>
+      <link>https://whulizhen.github.io/authors/jingsong-huang/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/jingsong-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xianke Tan</title>
+      <link>https://whulizhen.github.io/authors/xianke-tan/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/authors/xianke-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://whulizhen.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://whulizhen.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Zhen Li is a doctor of astrodynamics and space geodesy. His research interests include spacecraft radiation force modelling, precise orbit determination, GNSS precie positioning. He has worked on many radiation pressure modelling for many spacecraft such as European Galileo navigation satellites, Sentinel-1 and Inmarsat-4F2 spacecraft.&lt;/p&gt;
+      <description>&lt;p&gt;Zhen Li is a doctor of astrodynamics and space geodesy. His research interests include spacecraft radiation force modelling, precise orbit determination, GNSS precise positioning. He has worked on radiation pressure modelling for many spacecraft such as Galileo satellites (European Global Navigation Satellites), Sentinel-1 (Interferometric Synthetic Aperture Radar mission) and Inmarsat-4F2 (with EGNOS payload onboard) spacecraft.&lt;/p&gt;
 </description>
     </item>
     
