@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GNSS | Dr Zhen Li</title>
+    <link>https://whulizhen.github.io/tags/gnss/</link>
+      <atom:link href="https://whulizhen.github.io/tags/gnss/index.xml" rel="self" type="application/rss+xml" />
+    <description>GNSS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 12 Dec 2019 00:16:39 +0000</lastBuildDate>
+    <image>
+      <url>https://whulizhen.github.io/img/icon-192.png</url>
+      <title>GNSS</title>
+      <link>https://whulizhen.github.io/tags/gnss/</link>
+    </image>
+    
+    <item>
+      <title>GNSS foundation class</title>
+      <link>https://whulizhen.github.io/project/gfc/</link>
+      <pubDate>Thu, 12 Dec 2019 00:16:39 +0000</pubDate>
+      <guid>https://whulizhen.github.io/project/gfc/</guid>
+      <description>&lt;p&gt;gfc is aimed to serve users in the field of GNSS data processing by providing high efficient and easy to use modules.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

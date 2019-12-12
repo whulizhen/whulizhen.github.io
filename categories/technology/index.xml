@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology | Dr Zhen Li</title>
+    <link>https://whulizhen.github.io/categories/technology/</link>
+      <atom:link href="https://whulizhen.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>technology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 12 Dec 2019 00:14:20 +0000</lastBuildDate>
+    <image>
+      <url>https://whulizhen.github.io/img/icon-192.png</url>
+      <title>technology</title>
+      <link>https://whulizhen.github.io/categories/technology/</link>
+    </image>
+    
+    <item>
+      <title>Radiation pressure modelling on space vehicle</title>
+      <link>https://whulizhen.github.io/post/2019-12-12-what-is-radiation-pressure/</link>
+      <pubDate>Thu, 12 Dec 2019 00:14:20 +0000</pubDate>
+      <guid>https://whulizhen.github.io/post/2019-12-12-what-is-radiation-pressure/</guid>
+      <description>&lt;p&gt;This is the first post about radiation pressure and how it is modelled in orbit dynamcis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

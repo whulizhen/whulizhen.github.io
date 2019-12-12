@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space debris | Dr Zhen Li</title>
+    <link>https://whulizhen.github.io/tags/space-debris/</link>
+      <atom:link href="https://whulizhen.github.io/tags/space-debris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Space debris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 12 Dec 2019 00:16:39 +0000</lastBuildDate>
+    <image>
+      <url>https://whulizhen.github.io/img/icon-192.png</url>
+      <title>Space debris</title>
+      <link>https://whulizhen.github.io/tags/space-debris/</link>
+    </image>
+    
+    <item>
+      <title>Space debris visualisation</title>
+      <link>https://whulizhen.github.io/project/space_debris_visualisation/</link>
+      <pubDate>Thu, 12 Dec 2019 00:16:39 +0000</pubDate>
+      <guid>https://whulizhen.github.io/project/space_debris_visualisation/</guid>
+      <description>&lt;p&gt;This tool is a 3D visulisation of space debris using information collected from multiple sources. It is developed based on Cesium.js which is a javascript library for creating world-class 3D globes and maps with the best possible performance, precision and visual quality.
+Please see the following link:
+&lt;a href=&#34;https://spacegeodesy.bitbucket.io/spacedebris_viewer/space_debris.html&#34; target=&#34;_blank&#34;&gt;Space debris distribution&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
