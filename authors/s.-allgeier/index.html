@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="PhD in Astrodynamics and Space Geodesy">
+  <meta name="description" content="Dr Zhen Li">
 
   
   <link rel="alternate" hreflang="en-us" href="https://whulizhen.github.io/authors/s.-allgeier/">
@@ -59,10 +59,8 @@
     
       
       
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
-        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
       
     
 
@@ -91,6 +89,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140404526-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-140404526-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -117,7 +151,7 @@
   <meta property="og:site_name" content="Dr Zhen Li">
   <meta property="og:url" content="https://whulizhen.github.io/authors/s.-allgeier/">
   <meta property="og:title" content="S. Allgeier | Dr Zhen Li">
-  <meta property="og:description" content="PhD in Astrodynamics and Space Geodesy"><meta property="og:image" content="https://whulizhen.github.io/img/icon-192.png">
+  <meta property="og:description" content="Dr Zhen Li"><meta property="og:image" content="https://whulizhen.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://whulizhen.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2019-06-01T00:00:00&#43;00:00">
@@ -463,6 +497,16 @@
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/javascript.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/json.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/c&#43;&#43;.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/html.min.js"></script>
+        
       
 
       
@@ -528,6 +572,8 @@
 
     
     
+    <script id="dsq-count-scr" src="https://https-whulizhen-github-io.disqus.com/count.js" async></script>
+    
 
     
     
@@ -559,7 +605,7 @@
   
 
   <p class="powered-by">
-    ©2019 &middot; 
+    ©2019 Everything is mine &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
