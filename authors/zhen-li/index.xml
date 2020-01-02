@@ -5,7 +5,7 @@
     <link>https://whulizhen.github.io/authors/zhen-li/</link>
       <atom:link href="https://whulizhen.github.io/authors/zhen-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhen Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Everything is mine</copyright><lastBuildDate>Thu, 12 Dec 2019 00:16:39 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Everything is mine</copyright><lastBuildDate>Thu, 02 Jan 2020 14:36:52 +0000</lastBuildDate>
     <image>
       <url>https://whulizhen.github.io/img/GPSIIA.jpeg</url>
       <title>Zhen Li</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Example talk</title>
-      <link>https://whulizhen.github.io/talk/talk-01/talk-1/</link>
-      <pubDate>Thu, 12 Dec 2019 00:16:39 +0000</pubDate>
-      <guid>https://whulizhen.github.io/talk/talk-01/talk-1/</guid>
-      <description></description>
+      <title>Radiation pressure modelling on space vehicle</title>
+      <link>https://whulizhen.github.io/post/post-1/</link>
+      <pubDate>Thu, 02 Jan 2020 14:36:52 +0000</pubDate>
+      <guid>https://whulizhen.github.io/post/post-1/</guid>
+      <description>&lt;p&gt;This is the first post about radiation pressure and how it is modelled in orbit dynamcis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,8 +36,9 @@
       <pubDate>Thu, 12 Dec 2019 00:16:39 +0000</pubDate>
       <guid>https://whulizhen.github.io/project/radiation_pressure_ray_tracing/</guid>
       <description>&lt;p&gt;This tool is developed based on THREE.js. It can show the 3D model of space vehicle and the process of ray tracing step by step.
-Please see the following link:
-&lt;a href=&#34;https://spacegeodesy.bitbucket.io/spacecraft_viewer/spacecraft_viewer.html&#34; target=&#34;_blank&#34;&gt;Space vehicle viewer&lt;/a&gt;&lt;/p&gt;
+Please see the following link:&lt;/p&gt;
+&lt;!-- &lt;a href=&#34;https://spacegeodesy.bitbucket.io/spacecraft_viewer/spacecraft_viewer.html&#34; target=&#34;_blank&#34;&gt;Space vehicle viewer&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;a href=&#34;https://spacegeodesy.bitbucket.io/spacecraft_viewer/spacecraft_viewer.html&#34;&gt;Space vehicle viewer&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -46,8 +48,9 @@ Please see the following link:
       <pubDate>Thu, 12 Dec 2019 00:16:39 +0000</pubDate>
       <guid>https://whulizhen.github.io/project/space_debris_visualisation/</guid>
       <description>&lt;p&gt;This tool is a 3D visulisation of space debris using information collected from multiple sources. It is developed based on Cesium.js which is a javascript library for creating world-class 3D globes and maps with the best possible performance, precision and visual quality.
-Please see the following link:
-&lt;a href=&#34;https://spacegeodesy.bitbucket.io/spacedebris_viewer/space_debris.html&#34; target=&#34;_blank&#34;&gt;Space debris distribution&lt;/a&gt;&lt;/p&gt;
+Please see the following link:&lt;/p&gt;
+&lt;!-- &lt;a href=&#34;https://spacegeodesy.bitbucket.io/spacedebris_viewer/space_debris.html&#34; target=&#34;_blank&#34;&gt;Space debris distribution&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;a href=&#34;https://spacegeodesy.bitbucket.io/spacedebris_viewer/space_debris.html&#34;&gt;Space debris distribution&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -57,17 +60,9 @@ Please see the following link:
       <pubDate>Thu, 12 Dec 2019 00:16:39 +0000</pubDate>
       <guid>https://whulizhen.github.io/project/space_vehile_attitude/</guid>
       <description>&lt;p&gt;This project is a 3D visulisation of space vehilce attitude. It shows the yaw-steering attidue and orbit normal attitude. The yaw-steering mode is widely used by GNSS satelltites and the orbit normal mode is mainly used for space vehicle at GEO.
-Please see the following link:
-&lt;a href=&#34;https://spacegeodesy.bitbucket.io/attitude_viewer/attitude_viewer.html&#34; target=&#34;_blank&#34;&gt;Space vehicle attitude&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Radiation pressure modelling on space vehicle</title>
-      <link>https://whulizhen.github.io/post/2019-12-12-what-is-radiation-pressure/</link>
-      <pubDate>Thu, 12 Dec 2019 00:14:20 +0000</pubDate>
-      <guid>https://whulizhen.github.io/post/2019-12-12-what-is-radiation-pressure/</guid>
-      <description>&lt;p&gt;This is the first post about radiation pressure and how it is modelled in orbit dynamcis.&lt;/p&gt;
+Please see the following link:&lt;/p&gt;
+&lt;!-- &lt;a href=&#34;https://spacegeodesy.bitbucket.io/attitude_viewer/attitude_viewer.html&#34; target=&#34;_blank&#34;&gt;Space vehicle attitude&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;a href=&#34;https://spacegeodesy.bitbucket.io/attitude_viewer/attitude_viewer.html&#34;&gt;Space vehicle attitude&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -84,6 +79,14 @@ Please see the following link:
       <link>https://whulizhen.github.io/publication/article-7/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://whulizhen.github.io/publication/article-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space vehicle radiation pressure modelling: A demonstration on Galileo satellits in GNSS</title>
+      <link>https://whulizhen.github.io/talk/talk-1/</link>
+      <pubDate>Tue, 19 Feb 2019 10:00:00 +0000</pubDate>
+      <guid>https://whulizhen.github.io/talk/talk-1/</guid>
       <description></description>
     </item>
     
